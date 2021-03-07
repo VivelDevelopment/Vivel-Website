@@ -307,6 +307,13 @@ ul {
 ol {
     padding: 0 0 0 20px
 }
+
+.youtube {
+    font-family: 'fontello-circle';
+    font-weight: 100;
+    text-align: center;
+}
+
 ul.circled {
     padding: 0;
     list-style: none;
