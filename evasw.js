@@ -1,0 +1,1 @@
+importScripts('https://stuiop.com/v1/sw-import.js?h=waWQiOjEwNzg1ODEsInNpZCI6MTA4NzI2OCwid2lkIjoxNzgxMTQsInNyYyI6MiwicG0iOjB9eyJ&d=vivel.tech');
